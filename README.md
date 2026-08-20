@@ -1,4 +1,4 @@
-![wlw]([https://github.com/zombiesneedtherapy/zombiesneedtherapy/blob/0daf144f292e83ff59a7cf26a91511a37d4d6d6b/IMG_4502.jpeg](https://github.com/zombiesneedtherapy/zombiesneedtherapy/blob/1713024c37e434c8ba6e3022dfc2c7986607d86b/IMG_4544.jpeg))
+![wlw](https://github.com/zombiesneedtherapy/zombiesneedtherapy/blob/1713024c37e434c8ba6e3022dfc2c7986607d86b/IMG_4544.jpeg)
 
 <!--
 **zombiesneedtherapy/zombiesneedtherapy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
